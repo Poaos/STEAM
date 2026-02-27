@@ -2,8 +2,7 @@
 
 > **Submitted to IEEE Transactions on Intelligent Transportation Systems**
 
- 
-Details about our works (Youtube).
+Learn more about our projects (Click the image below to view the YouTube video.)
 
 <p align="center">
   <a href="https://youtu.be/m-xyvTLakkc" target="_blank"><img src=".datas/steam-cover.png" alt="video" width="800" height="400" border="1" /></a>
