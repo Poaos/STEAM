@@ -6,7 +6,7 @@
 Details about our works (Youtube).
 
 <p align="center">
-  <a href="https://youtu.be/m-xyvTLakkc" target="_blank"><img src=".datas/2026-0203-real-park.gif" alt="video" width="800" height="400" border="1" /></a>
+  <a href="https://youtu.be/m-xyvTLakkc" target="_blank"><img src=".datas/steam-cover.png" alt="video" width="800" height="400" border="1" /></a>
 </p>
 
 ## 🎥 Demonstration
