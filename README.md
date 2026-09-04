@@ -1,7 +1,5 @@
 # STEAM
 
-> **Submitted to IEEE Transactions on Intelligent Transportation Systems**
-
 Learn more about our projects (Click the image below to view the YouTube video.)
 
 <p align="center">
